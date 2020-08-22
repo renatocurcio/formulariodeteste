@@ -1,0 +1,19 @@
+h2 {
+    height: 100px;
+    width: 100%;
+    
+    color: black;
+    text-align: center;
+    
+    font-size: 400%;
+  }
+  a{
+    height: 50px;
+    width: 80%;
+    
+    color: black;
+    text-align: center;
+    
+    font-size: 350%;
+   
+  }
